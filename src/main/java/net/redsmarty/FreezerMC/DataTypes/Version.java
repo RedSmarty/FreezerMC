@@ -1,4 +1,4 @@
-public version Version {
+public class Version {
   private String versionType;
   private int versionNumber;
   private String gitRepo;
